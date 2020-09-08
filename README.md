@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div style="font-size:24px" align="center"><b> ✨ I am an 🔭 Business Technology Analyst at ⚡ <b>ZS Associates.</b> ✨</b>
 <br>
-
+<!--
 </p>
 <br> <br>
 <p align="center">
@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <p align="center">
     <img  src="https://github-readme-stats.vercel.app/api?username=jatinchauhann&count_private=true&show_icons=true&include_all_commits=true)" alt="summary" width="400" height="200"/>
 </p>
+-->
 <p align="center">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinchauhann&layout=compact" alt="languages" width="400" height="200"/>
 </p>
